@@ -18,8 +18,6 @@ do
 		echo "Buzz"
 	else
 		echo $x
-	fi
-	
+	fi	
 	x=$((x+1))
-
 done
