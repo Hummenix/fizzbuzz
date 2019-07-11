@@ -9,4 +9,4 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
 
 
 #### License:
-Yes, there is a license. I used the MIT license just for the unlikely case that someone uses this for Idk tutorials or something...
+Yes, there is a license. I used the MIT license just for the unlikely case that someone uses this for Idk tutorials or something... Applicable unless stated otherwise. 
