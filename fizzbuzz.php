@@ -3,7 +3,6 @@
 	$start = 0;
 	$end   = 100;
 	while ($start <= $end) {
-		#echo $start;
 		#Check for Fizz
 		if ($start%3==0) {
 			#Buzz
@@ -12,7 +11,6 @@
 			}
 			else {
 				echo "Fizz\n";
-	
 			}
 		}
 		else {
@@ -24,8 +22,6 @@
 				echo "$start \n";
 			}
 		}
-
-
 		$start = $start + 1;
 	}
 ?>
