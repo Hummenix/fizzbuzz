@@ -28,7 +28,5 @@ int main()
         }
         start++;
     }
-
-    cout << "Hello world!" << endl;
     return 0;
 }
