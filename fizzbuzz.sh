@@ -4,6 +4,8 @@
 #######NOT MINE BUT NICE#######
 ########POSIX compliant########
 #########License:  n/A#########
+##########No warrenty##########
+#########nor  liabilty#########
 ###############################
 
 start=1
